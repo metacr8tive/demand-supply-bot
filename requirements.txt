@@ -1,0 +1,6 @@
+ccxt
+MetaTrader5
+pandas
+numpy
+ta-lib
+backtrader
